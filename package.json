@@ -1,8 +1,8 @@
 {
   "author": "Marat Dulin <mdevils@yandex.ru>",
   "description": "JavaScript Code Style",
-  "name": "jscs",
-  "version": "1.5.9",
+  "name": "edp-jscs",
+  "version": "1.5.10",
   "main": "lib/checker",
   "homepage": "https://github.com/mdevils/node-jscs",
   "license": "MIT",
